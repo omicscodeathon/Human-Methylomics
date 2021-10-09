@@ -33,10 +33,10 @@ OncoMethyla was validated using the following data sets:
 - Breast cancer: [GSE153636](https://www.ncbi.nlm.nih.gov/bioproject/643525)
 - Leukemia: [GSE136986](https://www.ncbi.nlm.nih.gov/bioproject/564224)
 ## Team members
-- Sofia Sehli. Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
-- Abdellah Idrissi Azami. Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
-- Nihal Habib. Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
+- [Sofia Sehli.](https://github.com/SofSei) Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
+- [Abdellah Idrissi Azami.](https://github.com/abdellahai) Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
+- [Nihal Habib.](https://github.com/NihalHB) Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - Douae El Ghoubali. Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
-- John Njogu. Bioinformatics Research intern, International Centre of Insect Physiology and Ecology. Kenya.
+- [John Njogu.](https://github.com/jnnjogu) Bioinformatics Research intern, International Centre of Insect Physiology and Ecology. Kenya.
 
 
