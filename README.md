@@ -12,7 +12,7 @@ Alterations in DNA methylation are common in a variety of tumors as well as in d
 For cancer diagnosis, many DNA methylation markers have been identified. However, few studies, if any, have tried to find DNA methylation markers to diagnose diverse cancer types simultaneously. In this study, we tried to identify common DNA methylation markers by comparing methylation profiles from different cancer datasets.
 ## General workflow
 ![workflow](general-workflow.png) 
-## Data aquisation
+## Data acquisition
 All data was downloaded from the [National Center of Biotechnology Informarions's](https://www.ncbi.nlm.nih.gov/) [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) database.
 ## Analysis pipeline
 ![pipeline](Pipeline--.png)
