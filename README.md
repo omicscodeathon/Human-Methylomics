@@ -38,5 +38,6 @@ OncoMethyla was validated using the following data sets:
 - [Nihal Habib.](https://github.com/NihalHB) Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - Douae El Ghoubali. Phd candidat, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - [John Njogu.](https://github.com/jnnjogu) Bioinformatics Research intern, International Centre of Insect Physiology and Ecology. Kenya.
+- [Shreyasi Das](https://github.com/sHr3y4s1)MSc Bioinformatics, Pondicherry University, India.
 
 
