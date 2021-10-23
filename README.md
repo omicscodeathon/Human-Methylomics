@@ -28,7 +28,7 @@ All data was downloaded from the [National Center of Biotechnology Informarions'
 - [ ] Model-based Analysis for ChIP-Seq ([MACS](https://github.com/macs3-project/MACS))
 - [ ] Hypergeometric Optimization of Motif EnRichment ([HOMER](http://homer.ucsd.edu/homer/))
 ## Validation
-OncoMethyla was validated using the following data sets:
+OncoMethyla was validated using the following datasets:
 - Lung cancer: [GSE113432](https://www.ncbi.nlm.nih.gov/bioproject/451165)
 - Breast cancer: [GSE153636](https://www.ncbi.nlm.nih.gov/bioproject/643525)
 - Leukemia: [GSE136986](https://www.ncbi.nlm.nih.gov/bioproject/564224)
