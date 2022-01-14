@@ -28,9 +28,9 @@ Methylomin was done using the following datasets:
 - Mild cognitive impairment: [GSE190540](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA787538)
 - Oculo-auriculo-vertebral spectrum: [GSE152204](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA638638)
 ## Team members
-- [Sofia Sehli.](https://github.com/SofSei) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
-- [Abdellah Idrissi Azami.](https://github.com/abdellahai) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
-- [Nihal Habib.](https://github.com/NihalHB) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
+- [Sofia Sehli.](https://github.com/SofSei) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco | Project leader.
+- [Abdellah Idrissi Azami.](https://github.com/abdellahai) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco | Tech co-Leader.
+- [Nihal Habib.](https://github.com/NihalHB) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco | Writing co-Leader.
 - Douae El Ghoubali. Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - [John Njogu.](https://github.com/jnnjogu) Bioinformatics Research intern, International Centre of Insect Physiology and Ecology. Kenya.
 
