@@ -1,6 +1,6 @@
 # MethyloMining- A simple exploration to multiple human methylation profile in diffrent cases.
  <p align="center">
-  <img src="logo.png" />
+  <img src="images/logo.png" />
 </p>
 
 ## Background
@@ -29,14 +29,12 @@ All data was downloaded from the [National Center of Biotechnology Informarions'
 - [ ] Hypergeometric Optimization of Motif EnRichment ([HOMER](http://homer.ucsd.edu/homer/))
 ## Validation
 OncoMethyla was validated using the following datasets:
-- Lung cancer: [GSE113432](https://www.ncbi.nlm.nih.gov/bioproject/451165)
-- Breast cancer: [GSE153636](https://www.ncbi.nlm.nih.gov/bioproject/643525)
-- Leukemia: [GSE136986](https://www.ncbi.nlm.nih.gov/bioproject/564224)
+- Covid-19: [GSE113432](https://www.ncbi.nlm.nih.gov/bioproject/451165)
+- Smoking: [GSE153636](https://www.ncbi.nlm.nih.gov/bioproject/643525)
+- Mild Cognitive disorder: [GSE136986](https://www.ncbi.nlm.nih.gov/bioproject/564224)
 ## Team members
 - [Sofia Sehli.](https://github.com/SofSei) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - [Abdellah Idrissi Azami.](https://github.com/abdellahai) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - [Nihal Habib.](https://github.com/NihalHB) Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - Douae El Ghoubali. Phd candidate, Mohammed VI University of Health Sciences of Casablanca. Morocco.
 - [John Njogu.](https://github.com/jnnjogu) Bioinformatics Research intern, International Centre of Insect Physiology and Ecology. Kenya.
-
-
