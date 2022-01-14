@@ -1,4 +1,4 @@
-# OncoMethyla- A simple workflow to extract the methylation profile in cancer.
+# MethyloMining- A simple exploration to multiple human methylation profile in diffrent cases.
  <p align="center">
   <img src="logo.png" />
 </p>
@@ -6,10 +6,10 @@
 ## Background
 ### DNA Methylation
 DNA methylation is a conserved epigenetic mark that regulates multiple processes, including gene expression, genome stability and gene imprinting, and consequently disruption of DNA methylation can lead to developmental abnormalities. It is one of the most commonly occurring epigenetic events taking place in the mammalian genome. This change, though heritable, is reversible, making it a therapeutic target.
-### Cancer and DNA methylation
+### Human DNA methylation
 Alterations in DNA methylation are common in a variety of tumors as well as in development. Of all epigenetic modifications, hypermethylation, which represses transcription of the promoter regions of tumor suppressor genes leading to gene silencing, has been most extensively studied. However, global hypomethylation has also been recognized as a cause of oncogenesis.
 ## Our Objective
-For cancer diagnosis, many DNA methylation markers have been identified. However, few studies, if any, have tried to find DNA methylation markers to diagnose diverse cancer types simultaneously. In this study, we tried to identify common DNA methylation markers by comparing methylation profiles from different cancer datasets.
+For well understanding the methylomics, many DNA methylation markers have been identified. However, few studies, if any, have tried to find DNA methylation markers to diagnose diverse cancer types simultaneously. In this study, we tried to identify common DNA methylation markers by comparing methylation profiles from different cancer datasets.
 ## General workflow
 ![workflow](general-workflow.png) 
 ## Data acquisition
