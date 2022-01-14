@@ -13,7 +13,7 @@ In this project, we try to compare the methylation profiles of different human s
 ## Data acquisition
 All data was downloaded from the [National Center of Biotechnology Informarions's](https://www.ncbi.nlm.nih.gov/) [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) database.
 ## Analysis pipeline
-![pipeline]<img src="images/workflow.png" />
+<img src="images/workflow.png" />
 ## System/ Software prerequisites 
 ### System requirement
 - [ ] R programming language ([What is R?](https://www.r-project.org/about.html))
