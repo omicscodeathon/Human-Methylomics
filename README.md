@@ -10,12 +10,10 @@ DNA methylation is a conserved epigenetic mark that regulates multiple processes
 Variation of DNA methylation is common result in a variety of human body status. Of all epigenetic modifications, hypermethylation or hypermethylation, might effect the expression of diffrent genes, the organism body usually use this process to adapte to diffrent environemental states. Studies have been done in order to discover methylation profiles for diffrent cases, but none was trying to explore multiple cases profiles.
 ## Our Objective
 In this project, we try to compare the methylation profiles of different human status in order to have a big overview of the involvement of methylation in diffrent processes
-## General workflow
-![workflow](general-workflow.png) 
 ## Data acquisition
 All data was downloaded from the [National Center of Biotechnology Informarions's](https://www.ncbi.nlm.nih.gov/) [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) database.
 ## Analysis pipeline
-![pipeline](Pipeline--.png)
+![pipeline]<img src="images/workflow.png" />
 ## System/ Software prerequisites 
 ### System requirement
 - [ ] R programming language ([What is R?](https://www.r-project.org/about.html))
