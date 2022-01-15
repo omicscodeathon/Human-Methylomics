@@ -1,4 +1,4 @@
-# MethyloMin- A simple exploration to multiple human methylation profiles in different cases.
+# MethyloMin- An integrated pipeline to analyze Genome Wide DNA Methylation data
  <p align="center">
   <img src="images/logo.png" />
 </p>
